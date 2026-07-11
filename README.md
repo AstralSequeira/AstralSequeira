@@ -33,11 +33,8 @@
 - 📊 SIEM Assignments
 - 🌐 Web Development Projects
 
-## 📈 GitHub Stats
-
-(Add GitHub Stats cards)
 
 ## 📫 Connect with Me
 
-- LinkedIn
+- LinkedIn: https://www.linkedin.com/in/astralsequeira
 - Email: astralsequeira313@gmail.com
